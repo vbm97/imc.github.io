@@ -1,0 +1,27 @@
+body{
+    margin: 0 auto;
+    color:steelblue;
+    background-color: Lightblue;
+    text-align: center;
+    font-family: monospace;
+    font-size:x-large;
+  }
+
+  #button-imc{
+    color:steelblue ;
+    background-color: lightblue;
+    padding: 5px, 10px;
+    border: lightblue;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 20px;
+    transition: all.5s ease;
+
+  }
+
+  #button-imc:hover{
+    background-color: steelblue;
+    color: lightblue;
+
+
+  }
